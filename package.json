@@ -6,5 +6,8 @@
   "repository": "https://github.com/rhdeck/consumerif",
   "author": "Ray Deck",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "peerDependencies": {
+    "react": "^16.8.2"
+  }
 }
