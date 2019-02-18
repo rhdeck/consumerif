@@ -1,0 +1,10 @@
+{
+  "name": "consumerif",
+  "version": "1.0.0",
+  "description": "Wraps decision of whether to auto-wrap children with consumer",
+  "main": "index.js",
+  "repository": "https://github.com/rhdeck/consumerif",
+  "author": "Ray Deck",
+  "license": "MIT",
+  "private": false
+}
